@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Evgenia! 👋 
 
-<!--
-**vinnikova-ai/vinnikova-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I have a background in **Engineering**, and currently, I am actively transitioning my career into the field of **Content Creation & Artificial Intelligence**. 
 
-Here are some ideas to get you started:
+I use this space to share my learning journey, practical projects, and AI-driven workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm working on right now:
+* 🤖 Studying advanced prompt engineering at **Claude Academy** by Anthropic.
+* 🐍 Learning **Python** for task automation and data handling.
+* ✍️ Crafting content using generative AI models (ChatGPT, Claude, Gemini).
+
+### 🏆 My Certifications & Courses
+* **Claude Academy** | AI Fluency — Framework & Foundations ⏳ *(In progress)*
+* **Google** | AI Essentials (Coursera Material) ⏳ *(In progress)*
+
+### 🛠️ Tech Stack & Tools I Use:
+![Python](https://shields.io)
+![ChatGPT](https://shields.io)
+![Markdown](https://shields.io)
+
+---
+
+### 📫 Let's Connect!
+* **Telegram:** [@evg_vinn](https://t.me)
+* **Email:** [evg.must88@gmail.com](mailto:evg.must88@gmail.com)
