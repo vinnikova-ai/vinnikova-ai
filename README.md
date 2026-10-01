@@ -12,6 +12,9 @@ I use this space to share my learning journey, practical projects, and AI-driven
 * ✍️ Crafting content using generative AI models (ChatGPT, Claude, Gemini).
 
 ### 🏆 My Certifications & Courses
+* ✅ **University of Helsinki / MinnaLearn** | [Elements of AI (2 ECTS)](https://certificates.mooc.fi/validate/8qipld6ww2k) — 2026
+  > *Completed online course covering the fundamentals of artificial intelligence, machine learning, neural networks, probability, and AI applications.*
+
 * **Claude Academy** | AI Fluency — Framework & Foundations ⏳ *(In progress)*
 * **Google** | AI Essentials (Coursera Material) ⏳ *(In progress)*
 
