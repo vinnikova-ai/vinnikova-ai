@@ -15,7 +15,7 @@ I use this space to share my learning journey, practical projects, and AI-driven
 * ✅ **University of Helsinki / MinnaLearn** | [Elements of AI (2 ECTS)](https://certificates.mooc.fi/validate/8qipld6ww2k) — 2026
   > *Completed online course covering the fundamentals of artificial intelligence, machine learning, neural networks, probability, and AI applications.*
 
-* 🤖 **Anthropic / Claude Academy** | [AI Fluency — Framework & Foundations Badge](https://academy.claude.com/badges/5cdb6902-4525-40d8-9dd2-f7542d7897c1) — 2026
+* 🤖 **Anthropic / Claude Academy** | [AI Fluency — Framework & Foundations Badge](https://academy.claude.com/verify/b93f28f5116cff76cc2f7051a489684e) — 2026
   > *Verified badge for mastering prompt engineering, context management, and AI optimization workflows.*
 * **Google** | AI Essentials (Coursera Material) ⏳ *(In progress)*
 
