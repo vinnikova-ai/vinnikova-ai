@@ -23,6 +23,7 @@ I use this space to share my learning journey, practical projects, and AI-driven
 ![Python](https://shields.io)
 ![ChatGPT](https://shields.io)
 ![Markdown](https://shields.io)
+![Claude](https://shields.io)
 
 ---
 
