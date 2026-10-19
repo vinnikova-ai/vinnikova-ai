@@ -28,5 +28,5 @@ I use this space to share my learning journey, practical projects, and AI-driven
 ---
 
 ### 📫 Let's Connect!
-* **Telegram:** [@evg_vinn](https://t.me)
+* **Telegram:** [@vinnikova_ai](https://t.me)
 * **Email:** [evg.must88@gmail.com](mailto:evg.must88@gmail.com)
